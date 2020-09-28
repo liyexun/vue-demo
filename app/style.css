@@ -1,0 +1,8 @@
+.dot::before {
+    content: "●";
+    padding-right: 5px;
+}
+
+.disabled {
+    background: gray !important;
+}
